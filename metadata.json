@@ -1,0 +1,6 @@
+{
+  "name": "Edublox City By Sitty - Informatika Kelas VIII",
+  "description": "Game Edukasi 3D Informatika Kelas VIII SMP - Petualangan Berpikir Komputasional, Fungsi, Himpunan Data, Sistem Bilangan, dan Stack dalam Kota 3D Roblox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
